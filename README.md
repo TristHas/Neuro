@@ -20,6 +20,8 @@ Here is a list of the relevant data & code I found so far:
 
 Other projects:
 
+SegEM, worth it?
+
 Axon and Myelin segmentation:
   - DeepAxonSeg
     - code : https://github.com/neuropoly/axondeepseg
