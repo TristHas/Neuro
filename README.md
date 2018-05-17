@@ -43,7 +43,8 @@ Neurite reconstruction:
 
 # Data
 Neurite reconstructions:
-  - A very complete list of datasets can be found in 
+  - A very complete list of datasets can be found in the table 1 of "Progress and remaining challenge of h.t. electron microscopy":
+  - https://www.sciencedirect.com/science/article/pii/S0959438817303021
 
 ISBI challenge:
   - neurite reconstruction?
